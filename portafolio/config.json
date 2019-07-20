@@ -3,9 +3,9 @@
   "username": "iammiguelmx",
   "name": "Miguel Camacho",
   "userimg": "https://avatars1.githubusercontent.com/u/29826999?v=4",
-  "sort": "created",
+  "sort": "star",
   "order": "asc",
-  "includeFork": false,
-  "theme": "light.css"
+  "includeFork": true,
+  "theme": "dark.css"
  }
 ]
