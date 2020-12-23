@@ -25,6 +25,7 @@ git clone https://github.com/iammiguelmx/iammiguelmx.github.io
 
 * Twitter: [@elmiguelmx](https://twitter.com/elmiguelmx)
 * Github: [@iammiguelmx](https://github.com/iammiguelmx)
+* Check Status: https://updown.io/gp96
 
 ## Show your support
 
